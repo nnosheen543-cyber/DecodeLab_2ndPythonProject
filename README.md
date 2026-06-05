@@ -35,20 +35,9 @@ python --version
 python expense_tracker.py
 ```
 ## Example Output
-```text
-===== Expense Tracker =====
+<img width="416" height="228" alt="image" src="https://github.com/user-attachments/assets/4588600a-31d2-42f1-bc5a-f0d2dc9c9079" />
 
-Enter expense amount (or type 'done' to finish): 100
-Enter expense amount (or type 'done' to finish): 50
-Enter expense amount (or type 'done' to finish): 20
-Enter expense amount (or type 'done' to finish): done
-
-===== Expense Summary =====
-Total Expenses Entered: 3
-Total Amount Spent: 170.0
-Average Expense: 56.67
-```
-## 📚 Concepts Used
+## Concepts Used
 - Variables and Data Types
 - User Input Handling
 - While Loops
@@ -57,7 +46,7 @@ Average Expense: 56.67
 - Mathematical Operations
 - Exception Handling (`try-except`)
 - Program Flow Control
-## 🎯 Learning Outcomes
+## Learning Outcomes
 Through this project, you will learn:
 - How to accumulate values using variables
 - How financial calculations are processed programmatically
